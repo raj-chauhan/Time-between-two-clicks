@@ -1,13 +1,7 @@
-# Reflex tester
-
-###################################################
-# Student should add code where relevant to the following.
-
 import simplegui 
 
 total_ticks = 0
 time = 0
-
 
 # Timer handler
 def tick():
